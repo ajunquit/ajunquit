@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 
 ### Filosofía de código
 - **Sencillez primero**: SOLID, DRY/KISS, pruebas desde el día 1.  
-- **Observabilidad**: logs estructurados, métricas y trazas.  
 - **Automatización**: pipelines reproducibles, versionado semántico y dependencias actualizadas.
 
 ---
