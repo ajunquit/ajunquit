@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 <!-- Banner -->
 <div align="center">
 
-# Hola, soy **Alejandro Junquit**!  
-**Senior Full-Stack Developer (.NET + Angular) | DevOps Enthusiast | Software Architect**
+# Hola, soy **Alejandro Junqui**!  
+**Full-Stack Developer (.NET + Angular) | DevOps Enthusiast**
 
 [![GitHub followers](https://img.shields.io/github/followers/ajunquit?style=flat&label=Followers)](https://github.com/ajunquit)
 ![Profile views](https://komarev.com/ghpvc/?username=ajunquit&label=Profile%20views&color=0e75b6&style=flat)
