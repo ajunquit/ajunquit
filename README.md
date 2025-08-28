@@ -65,4 +65,4 @@ Here are some ideas to get you started:
 
 ---
 
-> Automatiza todo lo repetible y diseña para cambiar: la velocidad llega como consecuencia.
+> Learn + Do + Fail; 
