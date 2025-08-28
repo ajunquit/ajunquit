@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-Programming-239120?logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-Platform-DD0031?logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Springboot-green?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-Framework-DD0031?logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-Lang-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-Container-2496ED?logo=docker&logoColor=white" />
@@ -51,7 +52,6 @@ Here are some ideas to get you started:
 ### Filosofía de código
 - **Sencillez primero**: SOLID, DRY/KISS, pruebas desde el día 1.  
 - **Automatización**: pipelines reproducibles, versionado semántico y dependencias actualizadas.
-
 ---
 
 ### Estadisticas
