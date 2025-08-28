@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Tech Stack (selección)
+### Tech Stack
 <!-- Badges rápidos -->
 <p>
   <img src="https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white" />
